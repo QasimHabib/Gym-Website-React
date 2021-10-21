@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.057a26d4.chunk.css",
+    "main.js": "/static/js/main.45296ffe.chunk.js",
+    "main.js.map": "/static/js/main.45296ffe.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.48902787.js",
+    "runtime-main.js.map": "/static/js/runtime-main.48902787.js.map",
+    "static/js/2.dca9ea04.chunk.js": "/static/js/2.dca9ea04.chunk.js",
+    "static/js/2.dca9ea04.chunk.js.map": "/static/js/2.dca9ea04.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4598d6cd75deeee6f3a21a5061034193.js": "/precache-manifest.4598d6cd75deeee6f3a21a5061034193.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.057a26d4.chunk.css.map": "/static/css/main.057a26d4.chunk.css.map",
+    "static/js/2.dca9ea04.chunk.js.LICENSE.txt": "/static/js/2.dca9ea04.chunk.js.LICENSE.txt",
+    "static/media/bgVideo.mp4": "/static/media/bgVideo.ae250877.mp4",
+    "static/media/classFour.jpg": "/static/media/classFour.dd1df8f4.jpg",
+    "static/media/classOne.jpg": "/static/media/classOne.5a6c841c.jpg",
+    "static/media/classThree.jpg": "/static/media/classThree.3d605f68.jpg",
+    "static/media/classTwo.jpg": "/static/media/classTwo.a6ebee97.jpg",
+    "static/media/contactBg.jpg": "/static/media/contactBg.31cb05f3.jpg",
+    "static/media/gymOverlayBg.jpg": "/static/media/gymOverlayBg.f042c2ac.jpg",
+    "static/media/scheduleBg.jpg": "/static/media/scheduleBg.02e36482.jpg",
+    "static/media/trainerOne.jpg": "/static/media/trainerOne.7c2ab25d.jpg",
+    "static/media/trainerThree.jpg": "/static/media/trainerThree.81e56a6d.jpg",
+    "static/media/trainerTwo.jpg": "/static/media/trainerTwo.db6c1644.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48902787.js",
+    "static/js/2.dca9ea04.chunk.js",
+    "static/css/main.057a26d4.chunk.css",
+    "static/js/main.45296ffe.chunk.js"
+  ]
+}
